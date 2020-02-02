@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri Jan 31 21:07:42 2020
+# Process ID: 11516
+# Current directory: C:/Users/alfre/Documents/SOC Design/Project GS/Project GS/Project GS.runs/impl_1
+# Command line: vivado.exe -log mfp_nexys4_ddr.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source mfp_nexys4_ddr.tcl -notrace
+# Log file: C:/Users/alfre/Documents/SOC Design/Project GS/Project GS/Project GS.runs/impl_1/mfp_nexys4_ddr.vdi
+# Journal file: C:/Users/alfre/Documents/SOC Design/Project GS/Project GS/Project GS.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source mfp_nexys4_ddr.tcl -notrace
